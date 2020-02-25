@@ -1,0 +1,68 @@
+{
+    "[N|n][O|o][T|t] [M|m][E|e][A|a][T|t]" : "#not meat dumpling#", 
+    "[N|n][O|o] [M|m][E|e][A|a][T|t]" : "#not meat dumpling#", 
+    "[U|u][N|n][M|m][E|e][A|a][T|t]" : "#not meat dumpling#", 
+    "[M|m][E|e][A|a][T|t] [F|f][R|r][E|e][E|e]" : "#not meat dumpling#", 
+    "[M|m][E|e][A|a][T|t]-[F|f][R|r][E|e][E|e]" : "#not meat dumpling#",
+    "[V|v][E|e][G|g][E|e][T|t][A|a][R|r][I|i][A|a][N|n]" : "#not meat dumpling#",
+    "[V|v][E|e][G|g][A|a][N|n]" : "#not meat dumpling#",
+    "[G|g][L|l][U|u][T|t][E|e][N|n] [F|f][R|r][E|e][E|e]" : "#not meat dumpling#", 
+    "[G|G][F|F]" : "#not meat dumpling#",
+    "[M|m][E|e][A|a][T|t]" : "#origin#",
+
+    "[N|n][O|o][T|t] [V|v][E|e][G|g][G|g][I|i][E|e]" : "#not veggie dumpling#", 
+    "[N|n][O|o] [V|v][E|e][G|g][G|g][I|i][E|e]" : "#not veggie dumpling#", 
+    "[U|u][N|n][V|v][E|e][G|g][G|g][I|i][E|e]" : "#not veggie dumpling#", 
+    "[V|v][E|e][G|g][G|g][I|i][E|e] [F|f][R|r][E|e][E|e]" : "#not veggie dumpling#", 
+    "[M|m][E|e][A|a][T|t] [O|o][N|n][L|l][Y|y]" : "#not veggie dumpling#", 
+    "[O|o][N|n][L|l][Y|y] [M|m][E|e][A|a][T|t]" : "#not veggie dumpling#", 
+    "[V|v][E|e][G|g][G|g][I|i][E|e]" : "#origin#",
+
+    "[N|n][O|o][T|t] [B|b][E|e][E|e][F|f]" : "#not beef dumpling#", 
+    "[N|n][O|o] [B|b][E|e][E|e][F|f]" : "#not beef dumpling#", 
+    "[U|u][N|n][B|b][E|e][E|e][F|f]" : "#not beef dumpling#", 
+    "[B|b][E|e][E|e][F|f] [F|f][R|r][E|e][E|e]" : "#not beef dumpling#", 
+    "[B|b][E|e][E|e][F|f]" : "#beef dumpling#",
+
+    "[N|n][O|o][T|t] [C|c][H|h][I|i][C|c][K|k][E|e][N|n]" : "#not chicken dumpling#", 
+    "[N|n][O|o] [C|c][H|h][I|i][C|c][K|k][E|e][N|n]" : "#not chicken dumpling#", 
+    "[U|u][N|n][C|c][H|h][I|i][C|c][K|k][E|e][N|n]" : "#not chicken dumpling#", 
+    "[C|c][H|h][I|i][C|c][K|k][E|e][N|n] [F|f][R|r][E|e][E|e]" : "#not chicken dumpling#", 
+    "[C|c][H|h][I|i][C|c][K|k][E|e][N|n]" : "#chicken dumpling#",
+
+    "[N|n][O|o][T|t] [P|p][O|o][R|r][K|k]" : "#not pork dumpling#", 
+    "[N|n][O|o] [P|p][O|o][R|r][K|k]" : "#not pork dumpling#",
+    "[U|u][N|n][P|p][O|o][R|r][K|k]" : "#not pork dumpling#",
+    "[P|p][O|o][R|r][K|k] [F|f][R|r][E|e][E|e]" : "#not pork dumpling#",
+    "[P|p][O|o][R|r][K|k]" : "#pork dumpling#",
+
+    "[N|n][O|o][T|t] [S|s][E|e][A|a][F|f][O|o][O|o][D|d]" : "#not seafood dumpling#", 
+    "[N|n][O|o] [S|s][E|e][A|a][F|f][O|o][O|o][D|d]" : "#not seafood dumpling#", 
+    "[U|u][N|n][S|s][E|e][A|a][F|f][O|o][O|o][D|d]" : "#not seafood dumpling#", 
+    "[S|s][E|e][A|a][F|f][O|o][O|o][D|d] [F|f][R|r][E|e][E|e]" : "#not seafood dumpling#", 
+    "[S|s][E|e][A|a][F|f][O|o][O|o][D|d]" : "#seafood dumpling#",
+
+    "[N|n][O|o][T|t] [S|s][P|p][I|i][C|c][Y|y]" : "#not spicy dumpling#", 
+    "[N|n][O|o] [S|s][P|p][I|i][C|c][Y|y]" : "#not spicy dumpling#", 
+    "[U|u][N|n][S|s][P|p][I|i][C|c][Y|y]" : "#not spicy dumpling#", 
+    "[S|s][P|p][I|i][C|c][Y|y] [F|f][R|r][E|e][E|e]" : "#not spicy dumpling#", 
+    "[S|s][P|p][I|i][C|c][Y|y]" : "#spicy dumpling#",
+
+    "[N|n][O|o][T|t] [S|s][I|i][N|n][G|g][L|l][E|e]" : "#not single layer dumpling#", 
+    "[N|n][O|o] [S|s][I|i][N|n][G|g][L|l][E|e]" : "#not single layer dumpling#", 
+    "[U|u][N|n][S|s][I|i][N|n][G|g][L|l][E|e]" : "#not single layer dumpling#", 
+    "[S|s][I|i][N|n][G|g][L|l][E|e]" : "#single layer dumpling#",
+
+    "[N|n][O|o][T|t] [D|d][O|o][U|u][B|b][L|l][E|e]" : "#not double layers dumpling#", 
+    "[N|n][O|o] [D|d][O|o][U|u][B|b][L|l][E|e]" : "#not double layers dumpling#", 
+    "[U|u][N|n][D|d][O|o][U|u][B|b][L|l][E|e]" : "#not double layers dumpling#", 
+    "[D|d][O|o][U|u][B|b][L|l][E|e]" : "#double layers dumpling#",
+
+    "[N|n][O|o][T|t] [S|s][A|a][L|l][T|t][Y|y]" : "#not salty dumpling#", 
+    "[N|n][O|o] [S|s][A|a][L|l][T|t][Y|y]" : "#not salty dumpling#", 
+    "[U|u][N|n][S|s][A|a][L|l][T|t][Y|y]" : "#not salty dumpling#", 
+    "[S|s][A|a][L|l][T|t][Y|y]" : "#salty dumpling#",
+
+    "[D|d][U|u][M|m][P|p][L|l][I|i][N|n][G|g]" : "#origin#",
+	"." :  "Hello, may I take your order?"
+}
